@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TyrantWrath(Shadan Hekmat)
+- 👋 Hi, I’m @TyrantWrath
 - 👀 I’m interested in Unity Game Development
 - 🌱 I’m currently learning ICT
 - 💞️ I’m looking to collaborate on a Game Dev Project
