@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TyrantWrath
-- 👀 I’m interested in Unity Game Development
-- 🌱 I’m currently learning ICT
-- 💞️ I’m looking to collaborate on a Game Dev Project
+- 👀I make games
 - 📫 How to reach me tyrantswraath@gmail.com
 
 <!---
